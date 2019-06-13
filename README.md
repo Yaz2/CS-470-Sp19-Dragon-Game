@@ -1,5 +1,10 @@
 # CS-470-Sp19-Dragon-Game
 
+Contributors:
+Yaz2
+e102y
+EBrownelle
+
 The goal of the game was to have a player interact with a dragon, build feelings with the dragon and just have fun with a mythical pet that they may not have been able to have otherwise.
 
 The player:
